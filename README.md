@@ -13,7 +13,7 @@
 > dsh plugin --profile desktop add github:ck2237/dsh-file-review-tab
 > ```
 >
-> 安装（npm，先 `npm publish`）：
+> 安装（npm）：
 > ```sh
 > dsh plugin --profile desktop add dsh-file-review-tab-012a1
 > ```
